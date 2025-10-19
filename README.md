@@ -19,10 +19,10 @@ Sistema inteligente que testa proxies via cURL no Google e usa automaticamente o
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/php-proxy-system.git
+git clone https://github.com/dessetisanchezb/proxygen.git
 
 # Entre na pasta
-cd php-proxy-system
+cd proxygen
 
 # Execute o teste de proxies
 php proxygen.php
