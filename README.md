@@ -19,7 +19,7 @@ Sistema inteligente que testa proxies via cURL no Google e usa automaticamente o
 
 ```bash
 # Clone o repositório
-git clone https://github.com/dessetisanchezb/proxygen.git
+git clone https://github.com/dessetisanchezb1/proxygen.git
 
 # Entre na pasta
 cd proxygen
